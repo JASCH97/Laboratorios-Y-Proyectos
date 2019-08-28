@@ -14,13 +14,17 @@ sino de cuantos este desee. La segunda parte funcionará de la misma forma para 
 es decir:
 
 PC$ ¿Qué posición de carnet desea validar?
+
 --> 2
 
 PC$ ¿Cuál es el carnet del estudiante en la posición 2?
+
 --> 201925317
 PC$ El carnet ingresado el correcto
 
+
 -->201928617
+
 PC$ El carnet ingresado no corresponde con la posición 2.
 
 Aspectos Administrativos
