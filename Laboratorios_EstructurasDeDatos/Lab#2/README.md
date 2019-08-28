@@ -20,6 +20,7 @@ PC$ ¿Qué posición de carnet desea validar?
 PC$ ¿Cuál es el carnet del estudiante en la posición 2?
 
 --> 201925317
+
 PC$ El carnet ingresado el correcto
 
 
