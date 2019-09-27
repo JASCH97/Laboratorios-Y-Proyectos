@@ -12,7 +12,9 @@ Aspectos Administrativos 
 
 1. Límite para la entrega de la asignación: Lunes 23 de septiembre a las 8am.
 2. Plataforma de revisión  
-a. (1) blog personal de cada estudiante.  
-b. (2) repositorio de código.  
+
+  a. (1) blog personal de cada estudiante.  
+
+  b. (2) repositorio de código.  
 
 
